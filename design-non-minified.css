@@ -10,7 +10,7 @@
 
 html {
     /*background: #b89f80;*/
-    background-image:url(https://dl.dropboxusercontent.com/u/13771475/gold.png);
+    background-image:url(http://i.imgur.com/6kZXtHm.png);
     /*Background imaged designed by Freepik. http://www.freepik.com/free-vector/subtle-pattern_1050135.htm</a>*/
     font-size: 100%
 }
@@ -453,7 +453,7 @@ div.dialogue {
 }
 
 .gridPage .gridDay .gridSlot.gridFree, .gridPage .gridDay .gridSlot.gridHighlight {
-    border: 1px solid #696969
+    border: 1px solid #000
 }
 
 .gridPage .gridDay .gridSlot.gridFree a, .gridPage .gridDay .gridSlot.gridHighlight a {
